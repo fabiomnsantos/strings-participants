@@ -1,0 +1,6 @@
+re
+tabula
+pandas
+matplotlib
+seaborn
+
