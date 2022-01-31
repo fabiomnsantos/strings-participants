@@ -1,4 +1,4 @@
-# strings-participants
+# Data Analysis of Strings 2021 Participants
 Here we use `tabula` to scrape the Strings 2021 [list of participants](https://www.ictp-saifr.org/wp-content/uploads/2021/06/stringsreg616.pdf)
 , clean the data and do some plots.
 
