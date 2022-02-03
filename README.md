@@ -6,4 +6,4 @@ To run it locally, make sure to do the following:
 
 - Create a python virtual environment
 - pip install -r requirements.txt
-- Open strings-table.ipynb in JupyterLab
+- Open notebook in JupyterLab
